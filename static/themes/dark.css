@@ -1,0 +1,20 @@
+:root {
+    --bg-primary: #1e1e1e;
+    --bg-secondary: #252526;
+    --bg-tertiary: #333333;
+    --bg-input: #3c3c3c;
+    --bg-hover: #4a4a4a;
+    --text-primary: #d4d4d4;
+    --text-secondary: #cccccc;
+    --text-placeholder: #7a7a7a;
+    --accent-primary: #0e639c;
+    --accent-secondary: #4CAF50;
+    --border-color: #444444;
+    --danger-color: #f44336;
+    --danger-hover-color: #d32f2f;
+    --modal-bg: rgba(0, 0, 0, 0.7);
+    --modal-content-bg: #2d2d2d;
+    --scrollbar-thumb: #555;
+    --scrollbar-track: #252526;
+    --code-bg: #272822;
+}
